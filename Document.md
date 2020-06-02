@@ -8,7 +8,7 @@
 
  
 <img
-src=“/BikeInstallation by Year.png”
+src=“./BikeInstallation by Year.png”
 alt=“Subject Pronouns”
 style=“margin-right: 10px;”
 />
