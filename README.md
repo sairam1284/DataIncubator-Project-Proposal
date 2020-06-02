@@ -41,7 +41,7 @@
 **This Means that** Of the 1100 miles of roads in Boston, there are only 90 miles of road which have some sort of method to allow for bikes. There are 974 miles of roads in Boston which have a speed limit 25mph or under.  This could be a huge opportunity to consider adding more bike lanes to.  In addition
    
 
-<h3>Bike Length by Type of Road</h3>
+<h3>Visualization of the type of bike lanes that exist in Boston - by Type</h3>
 
 ![](BikeLength_by_Type.png)
 
