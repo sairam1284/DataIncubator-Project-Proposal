@@ -16,12 +16,18 @@
 * BFBL = Buffered bike lane BL = Bike lane
 * BLSL = Bike lane on one side, shared lane on the opposite side
 * BSBL = Bus/bike lane
-* CFBL = Contra-flow bike street NSUP = Shared use path, natural surface
-* NW = Neighborway, marked NW-U = Neighborway, unmarked
-* SBL = Separated bike lane SBLBL = Separated bike lane on one side, bike lane on the opposite side
-* SLM = Shared lane markings SRd = Shared road
-* SUB = Shared use path bridge SUP = Shared use path
-* TC = Traffic calmed street WALK = Walkway
+* CFBL = Contra-flow bike street N
+* SUP = Shared use path, natural surface
+* NW = Neighborway, marked 
+* NW-U = Neighborway, unmarked
+* SBL = Separated bike lane 
+* SBLBL = Separated bike lane on one side, bike lane on the opposite side
+* SLM = Shared lane markings 
+* SRd = Shared road
+* SUB = Shared use path bridge 
+* SUP = Shared use path
+* TC = Traffic calmed street 
+* WALK = Walkway
 
 
 ### Initial Observations
