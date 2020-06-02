@@ -19,7 +19,8 @@
 
 ### ExisFacil - Identifies the current bike facility type. See “Bicycle Facility Descriptions” below for further details.
 
-* BFBL = Buffered bike lane BL = Bike lane
+* BFBL = Buffered bike lane 
+* BL = Bike lane
 * BLSL = Bike lane on one side, shared lane on the opposite side
 * BSBL = Bus/bike lane
 * CFBL = Contra-flow bike street N
@@ -50,12 +51,18 @@
 
       974 Miles
 
-**This Means that** Of the 1100 miles of roads in Boston, there are only 90 miles of road which have some sort of method to allow for bikes. There are 974 miles of roads in Boston which have a speed limit 25mph or under.  This could be a huge opportunity to consider adding more bike lanes to.  In addition
-   
 
 <h3>Visualization of the type of bike lanes that exist in Boston - by Type</h3>
 
 ![](BikeLength_by_Type.png)
 
+<h4> Observations </h4>
+
+Bike Lanes, Shared Use Paths and Shared Lane Markings make up the overwhelming majority of bike lanes.  Meanwhile, Buffered Bike Lanes (BFBL) Separated Bike Lanes(SBL) make up only 5 and 4 miles of the entire network respectively.  These represent the safest alternative for on-road biking.  On a positive note, Shared Use Path (SUP), which is the safest alternative overall as it is completely off road, makes up 15 miles of the network.  There is great opportunity for converting Bike Lanes and Shared Lane Marking roads to safer alternatives.
+
 
 ![](RoadLength_by_speed.png)
+
+<h4> Observations </h4>
+Of the 1100 miles of roads in Boston, there are only 90 miles of road which have some sort of method to allow for bikes. There are 974 miles of roads in Boston which have a speed limit 25mph or under.  This could be a huge opportunity to consider adding more bike lanes to.  In addition
+   
