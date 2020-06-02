@@ -64,6 +64,7 @@
 
 Bike Lanes, Shared Use Paths and Shared Lane Markings make up the overwhelming majority of bike lanes.  Meanwhile, Buffered Bike Lanes (BFBL) Separated Bike Lanes(SBL) make up only 5 and 4 miles of the entire network respectively.  These represent the safest alternative for on-road biking.  On a positive note, Shared Use Path (SUP), which is the safest alternative overall as it is completely off road, makes up 15 miles of the network.  There is great opportunity for converting Bike Lanes and Shared Lane Marking roads to safer alternatives.
 
+### Visualization of the roads in Boston by Speed Limit
 
 ![](RoadLength_by_speed.png)
 
