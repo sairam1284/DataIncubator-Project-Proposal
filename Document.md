@@ -4,7 +4,7 @@
  
  
  ![Bike Install by date]
- (https://github.com/sairam1284/DataIncubator-Project-Proposal/blob/master/BikeInstallation_by_Year.png)
+ (BikeInstallation_by_Year.png)
 
  
 <img
