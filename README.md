@@ -46,4 +46,4 @@
 ![](BikeLength_by_Type.png)
 
 
-![](https://data.boston.gov/dataset/existing-bike-network/resource/3aca0e96-c445-45b8-a4c6-f0c895db2383/view/48795bac-e578-4f89-94f0-f150bc8913b7)
+<iframe width="700" height="400" src="https://data.boston.gov/dataset/existing-bike-network/resource/3aca0e96-c445-45b8-a4c6-f0c895db2383/view/48795bac-e578-4f89-94f0-f150bc8913b7" frameBorder="0"></iframe>
