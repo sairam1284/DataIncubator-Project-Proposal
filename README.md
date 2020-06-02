@@ -20,9 +20,7 @@
   * 5 = Urban minor arterial or rural major collector
   * 6 = Urban collector or rural minor collector
 
-
-### ExisFacil - Identifies the current bike facility type. See “Bicycle Facility Descriptions” below for further details.
-
+### ExisFacil - Identifies the current bike facility type.
 * BFBL = Buffered bike lane 
 * BL = Bike lane
 * BLSL = Bike lane on one side, shared lane on the opposite side
